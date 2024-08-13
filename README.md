@@ -3,7 +3,7 @@
 🎓B.Tech Information Technology
 - 🌱 I'm currently learning Front-End development
 - 👀 I’m interested in Web Development and blockchain technology
-- 📫 How to reach me portfolio
+- 📫 You can reach me through portfolio
 
 
 <!---
