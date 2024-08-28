@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Dharshini
 
 🎓B.Tech Information Technology
+- Skill     - Python
 - 🌱 I'm currently learning Front-End development
 - 👀 I’m interested in Web Development and blockchain technology
 - 📫 You can reach me through portfolio
