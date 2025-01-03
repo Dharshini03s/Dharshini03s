@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Dharshini
+## Hi 👋 I'm Dharshini
 
 🎓B.Tech Information Technology
 - My Skills are - PYTHON , HTML , CSS , JAVASCRIPT
